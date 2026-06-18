@@ -10,6 +10,7 @@ int main() {
     double totalPoints = 0.0;
     int classCount = 0;
     char choice = 'y';
+    
 
     // grade map, all accepted grade letters and their gpa point
     std::map<std::string, double> gradeMap = {
